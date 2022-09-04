@@ -78,11 +78,3 @@ function setRotation(element, rotationRatio) {
 
 //   }
 // }
-
-const sortIt = (arr) => {
-  for (let i = 0; i < arr.length; i++) {
-    for (let i = 0;i<)
-  }
-  return arr;
-};
-console.log(sortIt([3, 7, 9, 10, 1]));
